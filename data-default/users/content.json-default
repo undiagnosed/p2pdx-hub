@@ -1,11 +1,11 @@
 {
- "address": "1BLueGvui1GdbtsjcKqCf4F67uKfritG49",
+ "address": "15SJRWb3JPgQsfETwqjJnff4uPVnu29Ebd",
  "files": {},
  "ignore": ".*",
  "inner_path": "data/users/content.json",
  "modified": 1470689676.665,
  "signs": {
-  "1BLueGvui1GdbtsjcKqCf4F67uKfritG49": "HC6x5BQTr1dBzcoRulZX5V5n1DN62/KpDEIgujSxp4i0YaWTO8I0z5g/LM33iKCJCODN3cwjHAc47iYhZUFeJnE="
+  "15SJRWb3JPgQsfETwqjJnff4uPVnu29Ebd": "HCafEtpQmWesp83wRhotnsp52kBBv3Pho1Hxrby2mMO+pra5ogAuoRyksOTnH/XPF6NTpU8P0iU+Z7ufCb5+o60="
  },
  "user_contents": {
   "cert_signers": {

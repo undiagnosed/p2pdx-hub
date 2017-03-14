@@ -1,41 +1,41 @@
 {
-	"address": "15SJRWb3JPgQsfETwqjJnff4uPVnu29Ebd",
-	"address_index": 78990587,
-	"background-color": "white",
-	"clone_root": "",
-	"cloneable": true,
-	"cloned_from": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
-	"description": "Welcome to P2pdx! Runner: undiagnosed",
-	"files": {
-		"data-default/users/content.json-default": {
-			"sha512": "4e37699bd5336b9c33ce86a3eb73b82e87460535793401874a653afeddefee59",
-			"size": 735
-		},
-		"index.html": {
-			"sha512": "087c6ae46aacc5661f7da99ce10dacc0428dbd48aa7bbdc1df9c2da6e81b1d93",
-			"size": 466
-		}
-	},
-	"ignore": "((js|css)/(?!all.(js|css))|data/.*db|data/users/.*/.*)",
-	"includes": {
-		"data/users/content.json": {
-			"signers": [],
-			"signers_required": 1
-		}
-	},
-	"inner_path": "content.json",
-	"merged_type": "ZeroMe",
-	"modified": 1481349306.629731,
-	"postmessage_nonce_security": true,
-	"sign": [
-		1.4033009254937595e+76,
-		8.222158905602138e+76
-	],
-	"signers_sign": "HFVRBhmums3NGmfvMPXsFNMIchuGbDHaT+FmoDsXvWIF+A5L47dhaeD2RLqSN+m6pQxtXVJ6WfnLPY5IqzI6LYg=",
-	"signs": {
-		"15SJRWb3JPgQsfETwqjJnff4uPVnu29Ebd": "HAi11Sh5unhtoMoFhX+V7pASBPOq4v5snIrZ48ZhV0mTtiCOMZgfqNuMLjw/DMpp3A+xE1ayrgy+YEPINqWF2Ns="
-	},
-	"signs_required": 1,
-	"title": "P2pdx Hub",
-	"zeronet_version": "0.5.1"
+ "address": "15SJRWb3JPgQsfETwqjJnff4uPVnu29Ebd",
+ "address_index": 78990587,
+ "background-color": "white",
+ "clone_root": "",
+ "cloneable": true,
+ "cloned_from": "1GrEenUGRWnzaNZjR3XsQa6dQgdPDTyt7i",
+ "description": "Welcome to P2pdx! Runner: undiagnosed",
+ "files": {
+  "data-default/users/content.json-default": {
+   "sha512": "db752528fb79c358fa235bc355776d29a0541017d28a6a98ea4d194a0d5d49d9",
+   "size": 736
+  },
+  "index.html": {
+   "sha512": "6a251f7808bc9bc92615be620ead076cff93322f255d64ab5f8d4d575f096ac7",
+   "size": 465
+  }
+ },
+ "ignore": "((js|css)/(?!all.(js|css))|data/.*db|data/users/.*/.*|.git/.*)",
+ "includes": {
+  "data/users/content.json": {
+   "signers": [],
+   "signers_required": 1
+  }
+ },
+ "inner_path": "content.json",
+ "merged_type": "P2pdx",
+ "modified": 1489125934,
+ "postmessage_nonce_security": true,
+ "sign": [
+  69850060204417093372222420271143301602538130770057078021585252936243896515388,
+  99598680066411638568583479364866699467394331804862295665586643045168010412234
+ ],
+ "signers_sign": "HFVRBhmums3NGmfvMPXsFNMIchuGbDHaT+FmoDsXvWIF+A5L47dhaeD2RLqSN+m6pQxtXVJ6WfnLPY5IqzI6LYg=",
+ "signs": {
+  "15SJRWb3JPgQsfETwqjJnff4uPVnu29Ebd": "G1GLgZjkSIBzppCt2SzT7CkGvXK7xOggfGIr577DiQRlr33fzt9t4jz2hwvG6RbNvwl92lCHlHzmPHMfTEcKIjQ="
+ },
+ "signs_required": 1,
+ "title": "P2pdx Hub",
+ "zeronet_version": "0.5.3"
 }
